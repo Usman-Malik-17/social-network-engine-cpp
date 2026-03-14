@@ -1,0 +1,15 @@
+14
+set current user
+view friend list
+view liked pages
+view timeline
+view liked list
+like post
+view page
+exit
+post comment
+view post
+set current date
+view homepage
+see your memories
+share memory
